@@ -1,7 +1,7 @@
 # SQLi Scanner
 
 Basic Python script for SQLi detection in web applications with MySQL DB.
-Only for `http` use.
+Only for `HTTP` use and paremeter `GET`.
 
 ## Ussage:
 ```sh
