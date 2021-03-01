@@ -1,0 +1,5 @@
+BeautifulSoup
+bs4
+urllib
+mechanize
+requests
